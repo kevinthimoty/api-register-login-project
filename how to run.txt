@@ -1,0 +1,6 @@
+Cara menjalankan program:
+
+1. Buat table users di local db dengan isi kolom [id, name, email, password]
+2. Ganti konfigurasi database dengan database local yg akan digunakan
+3. Buka folder dan terminal lalu jalankan "node app.js"
+4. Lakukan pengetestan di Postman seperti pada contoh gambar yang ada(register.png, login.png, getdata.png)
